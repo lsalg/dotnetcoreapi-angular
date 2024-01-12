@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lesliesalguero/Desktop/dot_net_core_ex/dot_net_core_ex.csproj": {}
+    "/Users/lesliesalguero/Documents/Coding Projects/dotnetcoreapi-angular/dot_net_core_ex.csproj": {}
   },
   "projects": {
-    "/Users/lesliesalguero/Desktop/dot_net_core_ex/dot_net_core_ex.csproj": {
+    "/Users/lesliesalguero/Documents/Coding Projects/dotnetcoreapi-angular/dot_net_core_ex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lesliesalguero/Desktop/dot_net_core_ex/dot_net_core_ex.csproj",
+        "projectUniqueName": "/Users/lesliesalguero/Documents/Coding Projects/dotnetcoreapi-angular/dot_net_core_ex.csproj",
         "projectName": "dot_net_core_ex",
-        "projectPath": "/Users/lesliesalguero/Desktop/dot_net_core_ex/dot_net_core_ex.csproj",
+        "projectPath": "/Users/lesliesalguero/Documents/Coding Projects/dotnetcoreapi-angular/dot_net_core_ex.csproj",
         "packagesPath": "/Users/lesliesalguero/.nuget/packages/",
-        "outputPath": "/Users/lesliesalguero/Desktop/dot_net_core_ex/obj/",
+        "outputPath": "/Users/lesliesalguero/Documents/Coding Projects/dotnetcoreapi-angular/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
