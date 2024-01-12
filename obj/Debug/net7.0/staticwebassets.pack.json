@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/lesliesalguero/Desktop/dot_net_core_ex/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.dot_net_core_ex.props",
+      "PackagePath": "build\\dot_net_core_ex.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.dot_net_core_ex.props",
+      "PackagePath": "buildMultiTargeting\\dot_net_core_ex.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.dot_net_core_ex.props",
+      "PackagePath": "buildTransitive\\dot_net_core_ex.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.dot_net_core_ex.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

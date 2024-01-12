@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eXN18Pi6TnnHB9359tPD8S0PftVP10NhfcsyqtMd80+/zdgbXgUhZ5I2yqVqPSYNJMJihd7M2UsWDqP/KNkAfQ==",
+  "success": true,
+  "projectFilePath": "/Users/lesliesalguero/Desktop/dot_net_core_ex/dot_net_core_ex.csproj",
+  "expectedPackageFiles": [
+    "/Users/lesliesalguero/.nuget/packages/microsoft.aspnetcore.spaproxy/7.0.15/microsoft.aspnetcore.spaproxy.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

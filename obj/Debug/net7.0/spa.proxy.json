@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44413",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "/Users/lesliesalguero/Desktop/dot_net_core_ex/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}

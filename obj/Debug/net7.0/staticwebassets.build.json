@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "FZnUbNK5/QN/OfAMVwaJFRZ9tgunQuElxFKAGPTj63U=",
+  "Source": "dot_net_core_ex",
+  "BasePath": "_content/dot_net_core_ex",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "dot_net_core_ex/wwwroot",
+      "Source": "dot_net_core_ex",
+      "ContentRoot": "/Users/lesliesalguero/Desktop/dot_net_core_ex/wwwroot/",
+      "BasePath": "_content/dot_net_core_ex",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/lesliesalguero/Desktop/dot_net_core_ex/wwwroot/favicon.ico",
+      "SourceId": "dot_net_core_ex",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/lesliesalguero/Desktop/dot_net_core_ex/wwwroot/",
+      "BasePath": "_content/dot_net_core_ex",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    }
+  ]
+}
